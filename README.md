@@ -130,6 +130,6 @@ The Task model contains:
 
 **25wh1a05a5-uh**
 
-## License
 
-This project is developed for educational purposes.
+
+
