@@ -98,9 +98,9 @@ python manage.py runserver
 
 ### 8. Open the application
 
-Visit the following URL in your browser:
+Make sure the Django development server is running, then open:
 
-[http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+[Open TODO Application](http://127.0.0.1:8000/)
 
 ## Application Usage
 
